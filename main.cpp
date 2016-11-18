@@ -15,7 +15,7 @@ int multiply(int a, int b){
   return a * b;
 }
 int main(){
-  int sum_result = multiply(5, 6);
+  int sum_result = sum(5, 6);
   cout << "Hello World !" << sum_result << endl;
   return 0;
 }
